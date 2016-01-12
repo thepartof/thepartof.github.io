@@ -4,7 +4,7 @@ title:  "Jekyll Tutorial For OS X EI.Capitan"
 date:   2015-10-2 14:24:58 +0800
 remark: Jekyll Tutorial
 author: Andrew Wu
-categories: jekyll update
+categories: jekyll
 ---
 
 Before installation, you need to make sure your `usr/local/bin` is in you $PATH, if not, execute the following command in you terminal:
