@@ -5,6 +5,7 @@ date:   2015-11-20 14:23:58 +0800
 remark: Misc
 author: Andrew Wu
 categories: Misc
+permalink: /post/
 ---
 
 This is an amazing keyboard for me!

@@ -5,6 +5,7 @@ date:   2015-10-2 14:24:58 +0800
 remark: Jekyll Tutorial
 author: Andrew Wu
 categories: jekyll
+permalink: /post/
 ---
 
 Before installation, you need to make sure your `usr/local/bin` is in you $PATH, if not, execute the following command in you terminal:

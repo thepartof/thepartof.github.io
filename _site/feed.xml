@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2016 20:52:40 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 20:52:40 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Jan 2016 20:54:21 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 20:54:21 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;Anyways, just buy it or at least give a try! You won’t regret!&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Nov 2015 14:23:58 +0800</pubDate>
-        <link>http://yourdomain.com/misc/2015/11/20/filco-majestouch-2-mechanical-keyboard.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/misc/2015/11/20/filco-majestouch-2-mechanical-keyboard.html</guid>
+        <link>http://yourdomain.com/post/</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
         
         
         <category>Misc</category>
@@ -56,8 +56,8 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 24 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/javascript/2015/10/24/ajax-call-async-json-api.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/javascript/2015/10/24/ajax-call-async-json-api.html</guid>
+        <link>http://yourdomain.com/post/</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
         
         
         <category>javascript</category>
@@ -99,8 +99,8 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 02 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/2015/10/02/jekyll-tutorial-for-osx-ei.capitan.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/2015/10/02/jekyll-tutorial-for-osx-ei.capitan.html</guid>
+        <link>http://yourdomain.com/post/</link>
+        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
         
         
         <category>jekyll</category>
