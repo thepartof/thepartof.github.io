@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading" style="font-size: 25px;font-weight: bold;font-family: 'Russo One', sans-serif;">BLOG</h1>
+
+
+  <div class="post-wrapper">
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+            <a class="post-link" style="color: black" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} • {{post.remark}} • {{post.author}}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+
+
