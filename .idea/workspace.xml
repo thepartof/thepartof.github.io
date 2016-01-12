@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="" />
     <ignored path="thepartof.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15424165">
+            <state vertical-scroll-proportion="-5.0">
               <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#header#0;n#!!top" expanded="true" />
@@ -103,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625">
-              <caret line="105" column="31" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.3856041">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -168,7 +166,6 @@
         <option value="$PROJECT_DIR$/_includes/categories.html" />
         <option value="$PROJECT_DIR$/_layouts/category.html" />
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
-        <option value="$PROJECT_DIR$/_sass/_layout.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/writing/misc/index.html" />
         <option value="$PROJECT_DIR$/writing/jekyll/index.html" />
@@ -177,6 +174,7 @@
         <option value="$PROJECT_DIR$/resume/resume.md" />
         <option value="$PROJECT_DIR$/resume/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_sass/_layout.scss" />
       </list>
     </option>
   </component>
@@ -516,7 +514,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452614378808</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update">
+      <created>1452614623900</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1452614623900</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -785,23 +789,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="105" column="31" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15424165">
+        <state vertical-scroll-proportion="-5.0">
           <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <marker date="1452614339000" expanded="true" signature="985:997" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3856041">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
