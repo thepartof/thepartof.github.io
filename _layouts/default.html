@@ -8,9 +8,9 @@
 
       <div style="text-align: center;margin-top: 30px;">
 
-          <p style="text-transform: capitalize">
+          <p class="table-content">
       {% for category in site.categories %}
-      <a href="/writing/{{ category | first }}/" style="color: gray;font-weight: bold;font-size: 1.5em;padding: 50px;font-family: 'Russo One', sans-serif;">{{ category | first }}</a>
+      <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
 
       {% endfor %}
           </p>

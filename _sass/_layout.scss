@@ -95,10 +95,18 @@
 }
 
 .site-title {
+    font-size: 5vw;
     letter-spacing: -1px;
-    margin-bottom: 0;
+    margin-left: 3%;
+    margin-top: 5%;
+    text-align: left;
     font-family: 'Russo One', sans-serif;
-    @media (max-width: 570px) { top: 4px; right: 2px; }
+
+    @include media-query($on-palm) {
+        font-size: 8vw;
+        top: 9px;
+        text-align: left;
+    }
 
     &,
     &:visited {
@@ -113,7 +121,7 @@
     top: 16px; right: 16px;
     border: 1px solid;
     border-radius: 10px;
-    @media (max-width: 570px) { top: 4px; right: 2px; }
+    @media (max-width: 700px) { top: 4px; right: 2px; }
 
 
     .nav-trigger {
@@ -121,7 +129,7 @@
         display: block;
         text-align: right;
         line-height: 1;
-        border-radius: 10px;
+        border-radius: 5px;
 
         .menu-icon {
             display: block;
@@ -157,56 +165,6 @@
 
             .menu-icon { display: inline-block; }
 
-        }
-    }
-
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 5px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 10px;
         }
     }
 }

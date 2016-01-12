@@ -256,13 +256,17 @@ pre {
   position: relative; }
 
 .site-title {
+  font-size: 5vw;
   letter-spacing: -1px;
-  margin-bottom: 0;
+  margin-left: 3%;
+  margin-top: 5%;
+  text-align: left;
   font-family: 'Russo One', sans-serif; }
-  @media (max-width: 570px) {
+  @media screen and (max-width: 600px) {
     .site-title {
-      top: 4px;
-      right: 2px; } }
+      font-size: 8vw;
+      top: 9px;
+      text-align: left; } }
   .site-title, .site-title:visited {
     color: #424242; }
 
@@ -275,7 +279,7 @@ pre {
   right: 16px;
   border: 1px solid;
   border-radius: 10px; }
-  @media (max-width: 570px) {
+  @media (max-width: 700px) {
     .site-nav {
       top: 4px;
       right: 2px; } }
@@ -284,7 +288,7 @@ pre {
     display: block;
     text-align: right;
     line-height: 1;
-    border-radius: 10px; }
+    border-radius: 5px; }
     .site-nav .nav-trigger .menu-icon {
       display: block; }
   .site-nav .page-link {
@@ -309,40 +313,6 @@ pre {
       display: block; }
     .site-nav:hover .nav-trigger .menu-icon {
       display: inline-block; }
-  @media screen and (max-width: 600px) {
-    .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
-      border-radius: 5px;
-      text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 5px;
-        margin-left: 10px; }
-        .site-nav .page-link:not(:last-child) {
-          margin-right: 0; } }
 
 .page-link {
   color: black;
@@ -507,6 +477,22 @@ pre {
           font-size: 16px; } }
     .categories .category-list li:hover {
       opacity: .6; }
+
+.table-content {
+  text-transform: capitalize; }
+  .table-content a {
+    color: gray;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 50px;
+    font-family: 'Russo One', sans-serif; }
+  @media screen and (max-width: 600px) {
+    .table-content a {
+      color: gray;
+      font-weight: bold;
+      font-size: 1.5em;
+      padding: 5px;
+      font-family: 'Russo One', sans-serif; } }
 
 /**
  * Syntax highlighting styles

@@ -42,3 +42,24 @@
   }
 
 }
+
+.table-content{
+  text-transform: capitalize;
+  a{
+    color: gray;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 50px;
+    font-family: 'Russo One', sans-serif;
+  }
+  @include media-query($on-palm) {
+    a{
+      color: gray;
+      font-weight: bold;
+      font-size: 1.5em;
+      padding: 5px;
+      font-family: 'Russo One', sans-serif;
+    }
+  }
+
+}
