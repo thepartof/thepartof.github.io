@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="Update">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about/about.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resume.md" afterPath="$PROJECT_DIR$/resume/resume.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-22-jekyll-tutorial-for-osx-ei.capitan.markdown" afterPath="$PROJECT_DIR$/_posts/2015-10-22-jekyll-tutorial-for-osx-ei.capitan.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-    </list>
+    <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="" />
     <ignored path="thepartof.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -374,7 +368,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452604183558</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <created>1452604670280</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1452604670280</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
