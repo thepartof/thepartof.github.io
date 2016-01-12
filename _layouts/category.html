@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+
+<div class="post-wrapper">
+    <ul class="post-list">
+        {% for post in site.categories.[page.category] %}
+        <li>
+            <a class="post-link" style="color: black" href="{{ post.url }}">{{ post.title }}</a>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} • {{post.remark}} • {{post.author}}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

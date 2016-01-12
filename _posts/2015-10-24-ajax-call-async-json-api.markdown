@@ -5,7 +5,6 @@ date:   2015-10-24 14:24:58 +0800
 remark: Javascript
 author: Andrew Wu
 categories: javascript
-permalink: /Ajax Call Json API with Async False/
 ---
 
 I only started to learn development, like seriously, when I started my first job as a developer. And honestly, before that 

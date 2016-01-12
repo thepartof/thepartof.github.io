@@ -1,0 +1,44 @@
+.section-heading {
+  margin: auto 0;
+  width: 50%;
+  text-align: center;
+  border-top: 3px solid yellowgreen;
+  border-bottom: 1px solid yellowgreen;
+  padding: 18px 0;
+  margin-bottom: 30px;
+
+  h2 {
+    font-weight: 800;
+    line-height: 1;
+    margin: 0;
+    font-size: 36px;
+    letter-spacing: -2px;
+    color: gray;
+    @media (max-width: 450px) { font-size: 28px; }
+  }
+}
+
+.categories {
+
+  .category-list {
+    padding: 0;
+    list-style: none;
+
+    li {
+      text-transform: capitalize;
+      float: left;
+
+      > a {
+        float: left;
+        margin: 0 4px 8px;
+        font-size: 20px;
+        @media (max-width: 450px) { font-size: 16px; }
+      }
+
+      &:hover { opacity: .6; }
+
+    }
+
+  }
+
+}

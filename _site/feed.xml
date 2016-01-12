@@ -4,10 +4,10 @@
     <title>ThePartOf BLOG</title>
     <description>Conent ©2015 - 2016 by Andrew Wu @ ThePartOf BLOG.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2016 21:17:54 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 21:17:54 +0800</lastBuildDate>
+    <link>http://thepartof.github.io/</link>
+    <atom:link href="http://thepartof.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jan 2016 23:58:59 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 23:58:59 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -23,11 +23,11 @@
 &lt;p&gt;Anyways, just buy it or at least give a try! You won’t regret!&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Nov 2015 14:23:58 +0800</pubDate>
-        <link>http://yourdomain.com/Filco Majestouch 2 Blue Switch/</link>
-        <guid isPermaLink="true">http://yourdomain.com/Filco Majestouch 2 Blue Switch/</guid>
+        <link>http://thepartof.github.io/writing/filco-majestouch-2-mechanical-keyboard</link>
+        <guid isPermaLink="true">http://thepartof.github.io/writing/filco-majestouch-2-mechanical-keyboard</guid>
         
         
-        <category>Misc</category>
+        <category>misc</category>
         
       </item>
     
@@ -56,8 +56,8 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 24 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/Ajax Call Json API with Async False/</link>
-        <guid isPermaLink="true">http://yourdomain.com/Ajax Call Json API with Async False/</guid>
+        <link>http://thepartof.github.io/writing/ajax-call-async-json-api</link>
+        <guid isPermaLink="true">http://thepartof.github.io/writing/ajax-call-async-json-api</guid>
         
         
         <category>javascript</category>
@@ -98,8 +98,8 @@ see a button which installs the command line tools.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 02 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/Jekyll Tutorial For OS X EI.Capitan/</link>
-        <guid isPermaLink="true">http://yourdomain.com/Jekyll Tutorial For OS X EI.Capitan/</guid>
+        <link>http://thepartof.github.io/writing/jekyll-tutorial-for-osx-ei.capitan</link>
+        <guid isPermaLink="true">http://thepartof.github.io/writing/jekyll-tutorial-for-osx-ei.capitan</guid>
         
         
         <category>jekyll</category>

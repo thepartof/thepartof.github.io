@@ -11,6 +11,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+  background-image: url("/img/body-background.jpg");
+  background-position: center center;
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
@@ -247,7 +249,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid black;
   min-height: 56px;
   width: 100%;
   height: 90px;
@@ -350,10 +352,10 @@ pre {
     margin-right: 20px; }
 
 /**
- * Site footer
+ * Site footer  $grey-color-light
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid black;
   padding: 30px 0; }
 
 .footer-heading {
@@ -468,6 +470,41 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.section-heading {
+  margin: auto 0;
+  width: 50%;
+  text-align: center;
+  border-top: 3px solid yellowgreen;
+  border-bottom: 1px solid yellowgreen;
+  padding: 18px 0;
+  margin-bottom: 30px; }
+  .section-heading h2 {
+    font-weight: 800;
+    line-height: 1;
+    margin: 0;
+    font-size: 36px;
+    letter-spacing: -2px;
+    color: gray; }
+    @media (max-width: 450px) {
+      .section-heading h2 {
+        font-size: 28px; } }
+
+.categories .category-list {
+  padding: 0;
+  list-style: none; }
+  .categories .category-list li {
+    text-transform: capitalize;
+    float: left; }
+    .categories .category-list li > a {
+      float: left;
+      margin: 0 4px 8px;
+      font-size: 20px; }
+      @media (max-width: 450px) {
+        .categories .category-list li > a {
+          font-size: 16px; } }
+    .categories .category-list li:hover {
+      opacity: .6; }
 
 /**
  * Syntax highlighting styles

@@ -86,7 +86,7 @@
 .site-header {
 
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid black;
     min-height: 56px;
     width: 100%;
     height: 90px;
@@ -228,10 +228,10 @@
 
 
 /**
- * Site footer
+ * Site footer  $grey-color-light
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid black;
     padding: $spacing-unit 0;
 }
 
@@ -391,3 +391,4 @@
         }
     }
 }
+
