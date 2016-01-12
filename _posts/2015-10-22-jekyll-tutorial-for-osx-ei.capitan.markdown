@@ -29,17 +29,15 @@ ERROR: Error installing jekyll:
 ERROR: Failed to build gem native extension.
 {% endhighlight %}
 
-To solve this issue, you need the command line tools, simple enter `GCC` in the terminal, and it will pop up a alert for you to install that command line tools:
-{% highlight ruby %}
-$ gcc
-{% endhighlight %}
+To solve this issue, you need the command line tools, you can dwonload the github desktop, and in the preference you will 
+see a button which installs the command line tools.
 
 Now, congrats! You are done with the installation. And next, follow the documents on the jekyll website to create your own blog!
 {% highlight ruby %}
 $ mkdir MyBlog                   //create a folder for your site
 $ cd Myblog                      //point to the folder where you want to put the files
 $ jekyll new                     //command to ask jekyll to build a blog 
-$ jekyll serve --watch           //now go to localhost:4000 and see what happened, --watch allows the auto-generation to your browser
+$ jekyll serve --watch           //go to localhost:4000, --watch enables the auto-generation to your browser
 {% endhighlight %}
 
 
