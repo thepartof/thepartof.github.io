@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2016 20:59:26 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 20:59:26 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Jan 2016 21:09:34 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 21:09:34 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;Anyways, just buy it or at least give a try! You won’t regret!&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Nov 2015 14:23:58 +0800</pubDate>
-        <link>http://yourdomain.com/post/</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
+        <link>http://yourdomain.com/Filco Majestouch 2 Blue Switch/</link>
+        <guid isPermaLink="true">http://yourdomain.com/Filco Majestouch 2 Blue Switch/</guid>
         
         
         <category>Misc</category>
@@ -56,8 +56,8 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 24 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/post/</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
+        <link>http://yourdomain.com/Ajax Call Json API with Async False/</link>
+        <guid isPermaLink="true">http://yourdomain.com/Ajax Call Json API with Async False/</guid>
         
         
         <category>javascript</category>
@@ -66,11 +66,11 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
     
       <item>
         <title>Jekyll Tutorial For OS X EI.Capitan</title>
-        <description>&lt;p&gt;Before installation, you need to make sure your &lt;code class=&quot;highlighter-rouge&quot;&gt;usr/local/bin&lt;/code&gt; is in you $PATH, if not, execute the following command in you terminal:&lt;/p&gt;
+        <description>&lt;p&gt;Before installation, you need to make sure your &lt;code class=&quot;highlighter-rouge&quot;&gt;usr/local/bin&lt;/code&gt; is in your $PATH, if not, execute the following command in your terminal:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;usr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;local&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sbin&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;And to avoid any sort of this access issue, when you install &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; command like:&lt;/p&gt;
+&lt;p&gt;And to avoid any sort of this access issue, when you install &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo&lt;/code&gt; command:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -99,8 +99,8 @@ And maybe this is the only way how a newbie turns pro.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 02 Oct 2015 14:24:58 +0800</pubDate>
-        <link>http://yourdomain.com/post/</link>
-        <guid isPermaLink="true">http://yourdomain.com/post/</guid>
+        <link>http://yourdomain.com/Jekyll Tutorial For OS X EI.Capitan/</link>
+        <guid isPermaLink="true">http://yourdomain.com/Jekyll Tutorial For OS X EI.Capitan/</guid>
         
         
         <category>jekyll</category>

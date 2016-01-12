@@ -5,15 +5,15 @@ date:   2015-10-2 14:24:58 +0800
 remark: Jekyll Tutorial
 author: Andrew Wu
 categories: jekyll
-permalink: /post/
+permalink: /Jekyll Tutorial For OS X EI.Capitan/
 ---
 
-Before installation, you need to make sure your `usr/local/bin` is in you $PATH, if not, execute the following command in you terminal:
+Before installation, you need to make sure your `usr/local/bin` is in your $PATH, if not, execute the following command in your terminal:
 {% highlight ruby %}
 export PATH=$PATH:/usr/local/sbin
 {% endhighlight %}
 
-And to avoid any sort of this access issue, when you install `jekyll`, use `sudo` command like:
+And to avoid any sort of this access issue, when you install `jekyll`, use `sudo` command:
 {% highlight ruby %}
 $  sudo gem install jekyll
 {% endhighlight %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-label: ThePartOf Blog-About
+label: ThePartOf About
 title: About Me
 permalink: /about/
 ---
