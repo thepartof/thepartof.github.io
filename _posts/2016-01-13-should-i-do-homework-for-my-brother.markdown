@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Should I Do Homework For My Brother"
-date:   2015-11-20 14:23:58 +0800
+date:   2016-01-13 21:15:58 +0800
 remark: Misc
 author: Andrew Wu
 comments: true
