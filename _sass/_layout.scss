@@ -34,12 +34,13 @@
     }
 }
 
-.site-nav {;
+.site-nav {
     position: fixed; z-index: 999;
     top: 16px; 
     right: 16px;
     border: 1px solid;
     border-radius: 10px;
+    
     @include media-query($on-palm) {
         top: 7px; 
         right: 5px;
