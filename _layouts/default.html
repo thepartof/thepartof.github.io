@@ -5,16 +5,13 @@
 
   <body>
       {% include header.html %}
-
-      <div>
-
-          <p>
-      {% for category in site.categories %}
-      <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
-
-      {% endfor %}
-          </p>
-      </div>
+      
+      <p class="table-content">
+        {% for category in site.categories %}
+          <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
+        {% endfor %}
+      </p>
+          
       <div class="page-header">
         <div class="wrap">
           {{ content }}
