@@ -291,6 +291,10 @@
     font-size: 12px;
     color: $grey-color;
     font-family: 'Josefin Sans', sans-serif;
+    @include media-query($on-palm) {
+        font-size: 1vw;
+        text-align: left;
+    }
 }
 
 .post-link {
@@ -298,7 +302,7 @@
     font-size: 25px;
     font-family: 'Josefin Sans', sans-serif;
     @include media-query($on-palm) {
-        font-size: 4vw;
+        font-size: 2vw;
         text-align: left;
     }
 }
