@@ -62,5 +62,12 @@
       font-family: 'Russo One', sans-serif;
     }
   }
+}
 
+.category-wrap{
+  margin-top: 50px;
+  @include media-query($on-palm) {
+    margin-top: 20px;
+  }
+  
 }
