@@ -50,7 +50,7 @@
     color: gray;
     font-weight: bold;
     font-size: 1.5em;
-    padding: 50px;
+    padding-top: 50px;
     font-family: 'Russo One', sans-serif;
   }
   @include media-query($on-palm) {
@@ -58,6 +58,7 @@
       color: gray;
       font-weight: bold;
       font-size: 0.75em;
+      padding-top: 5px;
       font-family: 'Russo One', sans-serif;
     }
   }
