@@ -15,7 +15,6 @@
     }
     
     p{
-        display: inline-block;
         @include media-query($on-palm) {
             margin-top: 15px
         } 
