@@ -210,6 +210,10 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    text-align: center;
+    @include media-query($on-palm) {
+        font-size: 10px;
+    }
 }
 
 .footer-col {
