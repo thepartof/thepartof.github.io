@@ -1,90 +1,7 @@
-.page-header {
-    background-color: transparent;
-    background-image: none;
-    padding: 0;
-    overflow: hidden;
-    @media (max-width: 990px) { height: auto; }
-
-    .my-avatar {
-        width: 100%;
-        float: right;
-        position: relative;
-        bottom: -5px;
-        margin-top: 40px;
-        margin-bottom: -10px;
-        @media (max-width: 990px) {
-            max-width: 550px;
-            width: 100%;
-            margin: 40px auto -120px;
-            float: none;
-        }
-    }
-
-    .joel-photo { max-width: 100%;
-    max-height: 500px;}
-
-    .intro-copy {
-        width: 385px;
-        float: left;
-        margin-top: 80px;
-        @media (max-width: 990px) {
-            margin: 30px auto 0;
-            float: none;
-        }
-        @media (max-width: 700px) { width: auto; }
-
-        h1 {
-            margin: 20px 0 25px;
-            letter-spacing: -3px;
-            font-weight: 800;
-            font-size: 4.4rem;
-            text-indent: 4px;
-            @media (max-width: 570px) { font-size: 14vw; }
-
-            a {
-                font-weight: 700;
-                color: $text_color;
-            }
-        }
-
-        h2 {
-            font-weight: 300;
-            border-top: 3px solid;
-            border-bottom: 1px solid;
-            padding: 10px 0;
-            font-size: 1.46875rem;
-            margin: 10px 0;
-            @media (max-width: 570px) {
-                font-size: 5vw;
-                letter-spacing: -1px;
-            }
-        }
-
-        .description {
-            font-size: 16px;
-            line-height: 1.5;
-        }
-    }
-
-    .social-media-links { margin-top: 20px; }
-
-    .icon-link {
-        display: inline-block;
-        text-decoration: none;
-        margin-right: 6px;
-
-        &:hover {
-            background-color: transparent;
-        }
-    }
-}
-
-
 /**
  * Site header
  */
 .site-header {
-
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid black;
     
@@ -93,6 +10,7 @@
     // Positioning context for the mobile navigation icon
     position: relative;
     @include media-query($on-palm) {
+        height: 60px;
         min-height: 40px;
     }
 }
