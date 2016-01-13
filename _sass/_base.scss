@@ -38,6 +38,7 @@ body {
     zoom: 1; 
     @include media-query($on-palm) {
     padding: 0 10px;
+    padding-bottom: 20px;
   }
 }
 
