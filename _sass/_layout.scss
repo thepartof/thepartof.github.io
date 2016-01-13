@@ -297,6 +297,10 @@
     display: block;
     font-size: 25px;
     font-family: 'Josefin Sans', sans-serif;
+    @include media-query($on-palm) {
+        font-size: 4vw;
+        text-align: left;
+    }
 }
 
 
