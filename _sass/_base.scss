@@ -35,7 +35,11 @@ body {
     max-width: 1084px;
     padding: 50px 30px;
     margin: 0 auto;
-    zoom: 1; }
+    zoom: 1; 
+    @include media-query($on-palm) {
+    padding: 20px 10px;
+  }
+}
 
 .fixed{ position: fixed; }
 
