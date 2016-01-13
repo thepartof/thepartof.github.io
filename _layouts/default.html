@@ -6,9 +6,9 @@
   <body>
       {% include header.html %}
 
-      <div style="text-align: center;margin-top: 30px;">
+      <div>
 
-          <p class="table-content">
+          <p>
       {% for category in site.categories %}
       <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
 
