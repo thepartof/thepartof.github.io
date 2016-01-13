@@ -13,6 +13,13 @@
         height: 60px;
         min-height: 40px;
     }
+    
+    p{
+        display: inline-block;
+        @include media-query($on-palm) {
+            margin-top: 15px
+        } 
+    }
 }
 
 .site-title {
@@ -36,13 +43,12 @@
 
 .site-nav {
     position: fixed; z-index: 999;
-    top: 35px; 
+    top: 20px; 
     right: 20px;
     border: 1px solid;
     border-radius: 10px;
     
-    @include media-query($on-palm){
-        top: 15px; 
+    @include media-query($on-palm){ 
         right: 5px;
     }
 
