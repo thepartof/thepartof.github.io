@@ -292,7 +292,7 @@
     color: $grey-color;
     font-family: 'Josefin Sans', sans-serif;
     @include media-query($on-palm) {
-        font-size: 1vw;
+        font-size: 3vw;
         text-align: left;
     }
 }
@@ -302,7 +302,7 @@
     font-size: 25px;
     font-family: 'Josefin Sans', sans-serif;
     @include media-query($on-palm) {
-        font-size: 2vw;
+        font-size: 5vw;
         text-align: left;
     }
 }
