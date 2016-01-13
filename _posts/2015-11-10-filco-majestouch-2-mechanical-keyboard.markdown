@@ -4,6 +4,7 @@ title:  "Filco Majestouch 2 Blue Switch"
 date:   2015-11-20 14:23:58 +0800
 remark: Misc
 author: Andrew Wu
+comments: true
 categories: misc
 ---
 

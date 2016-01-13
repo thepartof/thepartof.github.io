@@ -4,6 +4,7 @@ title:  "Jekyll Tutorial For OS X EI.Capitan"
 date:   2015-10-2 14:24:58 +0800
 remark: Jekyll Tutorial
 author: Andrew Wu
+comments: true
 categories: jekyll
 ---
 

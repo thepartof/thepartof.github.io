@@ -4,6 +4,7 @@ title:  "Ajax Call Json API with Async False"
 date:   2015-10-24 14:24:58 +0800
 remark: Javascript
 author: Andrew Wu
+comments: true
 categories: javascript
 ---
 
