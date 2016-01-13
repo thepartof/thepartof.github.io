@@ -6,11 +6,13 @@
   <body>
       {% include header.html %}
       
-      <p class="table-content">
-        {% for category in site.categories %}
-          <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
-        {% endfor %}
-      </p>
+      <div class="category-wrap">
+        <p class="table-content">
+          {% for category in site.categories %}
+            <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
+          {% endfor %}
+        </p>
+      </div>
           
       <div class="page-header">
         <div class="wrap">
