@@ -95,7 +95,7 @@
 }
 
 .site-title {
-    font-size: 70px;
+    font-size: 60px;
     letter-spacing: -1px;
     margin-left: 3%;
     text-align: left;
@@ -103,8 +103,8 @@
     font-weight: bolder;
 
     @include media-query($on-palm) {
-        font-size: 8vw;
-        top: 9px;
+        font-size: 9vw;
+        top: 30px;
         text-align: left;
     }
 
