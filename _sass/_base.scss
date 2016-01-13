@@ -12,11 +12,12 @@ dl, dd, ol, ul, figure {
 
 /**
  * Basic styling
+ *  background-image: url("/img/header-background.jpg");
+ *  background-position: center bottom;
+ *  background-repeat: no-repeat;
  */
 body {
-    background-image: url("/img/header-background.jpg");
-    background-position: center bottom;
-    background-repeat: no-repeat;
+    
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
