@@ -95,11 +95,12 @@
 }
 
 .site-title {
-    font-size: 60px;
+    font-size: 5vw;
     letter-spacing: -1px;
     margin-left: 3%;
     text-align: left;
     font-family: 'Russo One', sans-serif;
+    font-weight: bolder;
 
     @include media-query($on-palm) {
         font-size: 8vw;
