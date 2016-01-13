@@ -87,11 +87,14 @@
 
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid black;
-    min-height: 56px;
+    
     width: 100%;
     height: 90px;
     // Positioning context for the mobile navigation icon
     position: relative;
+    @include media-query($on-palm) {
+        min-height: 40px;
+    }
 }
 
 .site-title {
