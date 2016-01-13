@@ -36,12 +36,13 @@
 
 .site-nav {
     position: fixed; z-index: 999;
-    top: 16px; 
-    right: 16px;
+    top: 35px; 
+    right: 20px;
     border: 1px solid;
     border-radius: 10px;
     
     @include media-query($on-palm){
+        top: 15px; 
         right: 5px;
     }
 
