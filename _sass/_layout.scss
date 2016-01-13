@@ -41,8 +41,7 @@
     border: 1px solid;
     border-radius: 10px;
     
-    @include media-query($on-palm) {
-        top: 10px; 
+    @include media-query($on-palm){
         right: 5px;
     }
 
