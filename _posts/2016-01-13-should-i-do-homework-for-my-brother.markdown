@@ -8,18 +8,4 @@ comments: true
 categories: life
 ---
 
-To do or not to do? It's a question.
-
- .
- .
- .
- .
- .
- .
- .
- .
- .
- .
- .
-
-And I don't like questions :(
+To do or not to do? It's a question :)
