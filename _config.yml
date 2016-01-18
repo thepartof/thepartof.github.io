@@ -10,7 +10,7 @@ title: ThePartOf BLOG
 permalink:      /writing/:title
 email: wuzijian522@gmail.com
 description: > #
-             Conent ©2015 - 2016 by Andrew Wu @ ThePartOf BLOG.
+             Content ©2015 - 2016 by Andrew Wu @ ThePartOf BLOG.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thepartof.github.io" # the base hostname & protocol for your site
 twitter_username: andrewwuuu
