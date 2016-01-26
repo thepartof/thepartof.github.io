@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Thoughts of AngularJs"
-date:   2016-01-17 19:15:58 +0800
+date:   2016-01-22 19:15:58 +0800
 remark: Javascript
 author: Andrew Wu
 comments: true

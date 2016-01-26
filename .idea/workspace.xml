@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown" afterPath="$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown" />
     </list>
     <ignored path="thepartof.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-13-should-i-do-homework-for-my-brother.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.12605043">
+              <first_editor vertical-scroll-proportion="0.12658228">
                 <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
                 <folding />
               </first_editor>
@@ -71,12 +72,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-01-17-欲速则不达.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-01-17-欲速则不达.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-17-欲速则不达.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+              <first_editor vertical-scroll-proportion="0.28481013">
+                <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -87,12 +88,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-01-22-some-thoughts-of-angularjs.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2016-01-22-some-thoughts-of-angularjs.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.6962025">
-                <caret line="22" column="109" selection-start-line="22" selection-start-column="109" selection-end-line="22" selection-end-column="109" />
+              <first_editor vertical-scroll-proportion="0.094936706">
+                <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -133,8 +134,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-24-ajax-call-async-json-api.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.2079832">
-                <caret line="7" column="22" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="22" />
+              <first_editor vertical-scroll-proportion="0.20886075">
+                <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -190,7 +191,6 @@
         <option value="$PROJECT_DIR$/_sass/_categories.scss" />
         <option value="$PROJECT_DIR$/_sass/_layout.scss" />
         <option value="$PROJECT_DIR$/_posts/2015-10-22-jekyll-tutorial-for-osx-ei.capitan.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2015-10-24-ajax-call-async-json-api.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-11-10-filco-majestouch-2-mechanical-keyboard.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
@@ -200,6 +200,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-01-13-should-i-do-homework-for-my-brother.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-01-17-欲速则不达.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-01-22-angularjs-form-data-binding.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-24-ajax-call-async-json-api.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown" />
       </list>
     </option>
@@ -1084,34 +1085,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-24-ajax-call-async-json-api.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.2079832">
-            <caret line="7" column="22" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-13-should-i-do-homework-for-my-brother.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.12605043">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-22-jekyll-tutorial-for-osx-ei.capitan.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1126,11 +1099,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-17-欲速则不达.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.6962025">
-            <caret line="22" column="109" selection-start-line="22" selection-start-column="109" selection-end-line="22" selection-end-column="109" />
+          <first_editor vertical-scroll-proportion="0.28481013">
+            <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1140,11 +1113,39 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-17-欲速则不达.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-13-should-i-do-homework-for-my-brother.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+          <first_editor vertical-scroll-proportion="0.12658228">
+            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-24-ajax-call-async-json-api.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.20886075">
+            <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.094936706">
+            <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
