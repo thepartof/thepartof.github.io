@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a7e4d38-09ae-4c67-9818-2deacfe2d46f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown" afterPath="$PROJECT_DIR$/_posts/2016-01-22-some-thoughts-of-angularjs.markdown" />
     </list>
     <ignored path="thepartof.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -610,7 +609,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453815844929</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update">
+      <created>1453816006810</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1453816006810</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
