@@ -1,9 +1,7 @@
-<div class="categories">
-
-    <div class="section-heading group">
-
-
-
-    </div>
-
+<div class="category-wrap">
+    <p class="table-content">
+        {% for category in site.categories %}
+        <a href="/writing/{{ category | first }}/">{{ category | first }}</a>
+        {% endfor %}
+    </p>
 </div>
